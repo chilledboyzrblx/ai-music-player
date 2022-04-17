@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body{
+    background-size:cover;
+    text-align: center;
+}
+
+.heading{
+    width:100%;
+    font-size:30px;
+    margin:0px;
+    font-family: 'Raleway', sans-serif;
+    color:black;
+    box-shadow:5px 5px 5px greenyellow;
+}
+.note{
+    font-size:15px;
+}
+#song_name{
+    font-family: 'Raleway', sans-serif;
+    color:black;
+    box-shadow:5px 5px 5px greenyellow;
+    font-size:20px;
+    margin-right:55px;
+}
+canvas{
+    margin-top:50px;
+    border-radius:10px;
+    border-width:5px;
+    border-color:white;
+    background-color:#fcba03;
+    box-shadow:5px 5px 5px greenyellow;
+}
