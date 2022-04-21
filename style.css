@@ -24,10 +24,10 @@ body{
     margin-right:55px;
 }
 canvas{
-    margin-top:50px;
+    margin-top:200px;
+    margin-right:150px;
     border-radius:10px;
-    border-width:5px;
-    border-color:white;
+    border:5px solid white;
     background-color:#fcba03;
     box-shadow:5px 5px 5px greenyellow;
 }
